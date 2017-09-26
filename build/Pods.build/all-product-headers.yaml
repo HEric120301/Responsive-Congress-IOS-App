@@ -1,0 +1,388 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/apple/Desktop/save/HW9.01/build/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "AFHTTPRequestOperation.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFHTTPRequestOperationManager.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFHTTPSessionManager.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworkActivityIndicatorManager.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworkReachabilityManager.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworking-Swift.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/build/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/AFNetworking-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworking-umbrella.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/Pods/Target Support Files/AFNetworking/AFNetworking-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworking.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/Pods/AFNetworking/AFNetworking/AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFSecurityPolicy.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLConnectionOperation.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLRequestSerialization.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLResponseSerialization.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLSessionManager.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIActivityIndicatorView+AFNetworking.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIAlertView+AFNetworking.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIButton+AFNetworking.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+AFNetworking.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/Pods/AFNetworking/UIKit+AFNetworking/UIImage+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+AFNetworking.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIKit+AFNetworking.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/Pods/AFNetworking/UIKit+AFNetworking/UIKit+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIProgressView+AFNetworking.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIRefreshControl+AFNetworking.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIWebView+AFNetworking.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple/Desktop/save/HW9.01/build/Debug-iphoneos/AFNetworking/AFNetworking.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/build/Pods.build/Debug-iphoneos/AFNetworking.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple/Desktop/save/HW9.01/build/Debug-iphoneos/Alamofire/Alamofire.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Alamofire-Swift.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/build/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Alamofire-umbrella.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/Pods/Target Support Files/Alamofire/Alamofire-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple/Desktop/save/HW9.01/build/Debug-iphoneos/Alamofire/Alamofire.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/build/Pods.build/Debug-iphoneos/Alamofire.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple/Desktop/save/HW9.01/build/Debug-iphoneos/AlamofireImage/AlamofireImage.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "AlamofireImage-Swift.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/build/Debug-iphoneos/AlamofireImage/AlamofireImage.framework/Headers/AlamofireImage-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "AlamofireImage-umbrella.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/Pods/Target Support Files/AlamofireImage/AlamofireImage-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple/Desktop/save/HW9.01/build/Debug-iphoneos/AlamofireImage/AlamofireImage.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/build/Pods.build/Debug-iphoneos/AlamofireImage.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple/Desktop/save/HW9.01/build/Debug-iphoneos/FLKAutoLayout/FLKAutoLayout.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FLKAutoLayout-Swift.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/build/Debug-iphoneos/FLKAutoLayout/FLKAutoLayout.framework/Headers/FLKAutoLayout-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "FLKAutoLayout-umbrella.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/Pods/Target Support Files/FLKAutoLayout/FLKAutoLayout-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "FLKAutoLayoutPredicateList.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/Pods/FLKAutoLayout/FLKAutoLayout/FLKAutoLayoutPredicateList.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSLayoutConstraint+FLKAutoLayoutDebug.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/Pods/FLKAutoLayout/FLKAutoLayout/NSLayoutConstraint+FLKAutoLayoutDebug.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+FLKAutoLayout.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/Pods/FLKAutoLayout/FLKAutoLayout/UIView+FLKAutoLayout.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+FLKAutoLayoutDebug.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/Pods/FLKAutoLayout/FLKAutoLayout/UIView+FLKAutoLayoutDebug.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+FLKAutoLayoutPredicate.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/Pods/FLKAutoLayout/FLKAutoLayout/UIView+FLKAutoLayoutPredicate.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple/Desktop/save/HW9.01/build/Debug-iphoneos/FLKAutoLayout/FLKAutoLayout.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/build/Pods.build/Debug-iphoneos/FLKAutoLayout.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple/Desktop/save/HW9.01/build/Debug-iphoneos/ORStackView/ORStackView.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "ORSplitStackView.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/Pods/ORStackView/Classes/ios/ORSplitStackView.h"
+        },
+        {
+          'type': 'file',
+          'name': "ORStackScrollView.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/Pods/ORStackView/Classes/ios/ORStackScrollView.h"
+        },
+        {
+          'type': 'file',
+          'name': "ORStackView-Swift.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/build/Debug-iphoneos/ORStackView/ORStackView.framework/Headers/ORStackView-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "ORStackView-umbrella.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/Pods/Target Support Files/ORStackView/ORStackView-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "ORStackView.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/Pods/ORStackView/Classes/ios/ORStackView.h"
+        },
+        {
+          'type': 'file',
+          'name': "ORStackViewController.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/Pods/ORStackView/Classes/ios/ORStackViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "ORTagBasedAutoStackView.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/Pods/ORStackView/Classes/ios/ORTagBasedAutoStackView.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple/Desktop/save/HW9.01/build/Debug-iphoneos/ORStackView/ORStackView.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/build/Pods.build/Debug-iphoneos/ORStackView.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple/Desktop/save/HW9.01/build/Debug-iphoneos/ORStackView/ORStackView.framework/PrivateHeaders",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "ORStackView+Private.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/Pods/ORStackView/Classes/ios/private/ORStackView+Private.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple/Desktop/save/HW9.01/build/Debug-iphoneos/Pods_HW9_01.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-HW9.01-umbrella.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/Pods/Target Support Files/Pods-HW9.01/Pods-HW9.01-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_HW9_01-Swift.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/build/Debug-iphoneos/Pods_HW9_01.framework/Headers/Pods_HW9_01-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple/Desktop/save/HW9.01/build/Debug-iphoneos/Pods_HW9_01.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/build/Pods.build/Debug-iphoneos/Pods-HW9.01.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple/Desktop/save/HW9.01/build/Debug-iphoneos/SwiftSpinner/SwiftSpinner.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SwiftSpinner-Swift.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/build/Debug-iphoneos/SwiftSpinner/SwiftSpinner.framework/Headers/SwiftSpinner-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SwiftSpinner-umbrella.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/Pods/Target Support Files/SwiftSpinner/SwiftSpinner-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "SwiftSpinner.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/Pods/SwiftSpinner/SwiftSpinner/SwiftSpinner.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple/Desktop/save/HW9.01/build/Debug-iphoneos/SwiftSpinner/SwiftSpinner.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/build/Pods.build/Debug-iphoneos/SwiftSpinner.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple/Desktop/save/HW9.01/build/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SwiftyJSON-Swift.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/build/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SwiftyJSON-umbrella.h",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/Pods/Target Support Files/SwiftyJSON/SwiftyJSON-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple/Desktop/save/HW9.01/build/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/apple/Desktop/save/HW9.01/build/Pods.build/Debug-iphoneos/SwiftyJSON.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

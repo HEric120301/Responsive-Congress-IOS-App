@@ -1,0 +1,13 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "09a522a83d129caa5460e9d27a0863ac"
+build_time: [533775706, 235124000]
+inputs:
+  "/Users/apple/Desktop/save/HW9.01/Pods/AlamofireImage/Source/AFIError.swift": [533080006, 0]
+  "/Users/apple/Desktop/save/HW9.01/Pods/AlamofireImage/Source/Image.swift": [533080006, 0]
+  "/Users/apple/Desktop/save/HW9.01/Pods/AlamofireImage/Source/ImageCache.swift": [533080006, 0]
+  "/Users/apple/Desktop/save/HW9.01/Pods/AlamofireImage/Source/ImageDownloader.swift": [533080006, 0]
+  "/Users/apple/Desktop/save/HW9.01/Pods/AlamofireImage/Source/ImageFilter.swift": [533080006, 0]
+  "/Users/apple/Desktop/save/HW9.01/Pods/AlamofireImage/Source/Request+AlamofireImage.swift": [533080006, 0]
+  "/Users/apple/Desktop/save/HW9.01/Pods/AlamofireImage/Source/UIButton+AlamofireImage.swift": [533080006, 0]
+  "/Users/apple/Desktop/save/HW9.01/Pods/AlamofireImage/Source/UIImage+AlamofireImage.swift": [533080006, 0]
+  "/Users/apple/Desktop/save/HW9.01/Pods/AlamofireImage/Source/UIImageView+AlamofireImage.swift": [533080006, 0]

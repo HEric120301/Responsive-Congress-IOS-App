@@ -1,0 +1,11 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "94d015d6b69158f53b2ed32661e392c6"
+build_time: [533937134, 170958000]
+inputs:
+  "/Users/apple/Desktop/save/HW9.01/Pods/Pantry/Pantry/JSONWarehouse.swift": [533636635, 0]
+  "/Users/apple/Desktop/save/HW9.01/Pods/Pantry/Pantry/MemoryWarehouse.swift": [533636635, 0]
+  "/Users/apple/Desktop/save/HW9.01/Pods/Pantry/Pantry/Mirror+Serialization.swift": [533636635, 0]
+  "/Users/apple/Desktop/save/HW9.01/Pods/Pantry/Pantry/Pantry.swift": [533636635, 0]
+  "/Users/apple/Desktop/save/HW9.01/Pods/Pantry/Pantry/Storable.swift": [533636635, 0]
+  "/Users/apple/Desktop/save/HW9.01/Pods/Pantry/Pantry/Warehousable.swift": [533636635, 0]
+  "/Users/apple/Desktop/save/HW9.01/Pods/Pantry/Pantry/WarehouseCacheable.swift": [533636635, 0]

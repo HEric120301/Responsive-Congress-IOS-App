@@ -1,0 +1,21 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "b73bd09917bc51adf178581437564b07"
+build_time: [533955088, 949928000]
+inputs:
+  "/Users/apple/Desktop/save/HW9.01/Pods/Alamofire/Source/AFError.swift": [533037199, 0]
+  "/Users/apple/Desktop/save/HW9.01/Pods/Alamofire/Source/Alamofire.swift": [533037199, 0]
+  "/Users/apple/Desktop/save/HW9.01/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [533037199, 0]
+  "/Users/apple/Desktop/save/HW9.01/Pods/Alamofire/Source/MultipartFormData.swift": [533037199, 0]
+  "/Users/apple/Desktop/save/HW9.01/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [533037199, 0]
+  "/Users/apple/Desktop/save/HW9.01/Pods/Alamofire/Source/Notifications.swift": [533037199, 0]
+  "/Users/apple/Desktop/save/HW9.01/Pods/Alamofire/Source/ParameterEncoding.swift": [533037199, 0]
+  "/Users/apple/Desktop/save/HW9.01/Pods/Alamofire/Source/Request.swift": [533037199, 0]
+  "/Users/apple/Desktop/save/HW9.01/Pods/Alamofire/Source/Response.swift": [533037199, 0]
+  "/Users/apple/Desktop/save/HW9.01/Pods/Alamofire/Source/ResponseSerialization.swift": [533037199, 0]
+  "/Users/apple/Desktop/save/HW9.01/Pods/Alamofire/Source/Result.swift": [533037199, 0]
+  "/Users/apple/Desktop/save/HW9.01/Pods/Alamofire/Source/ServerTrustPolicy.swift": [533037199, 0]
+  "/Users/apple/Desktop/save/HW9.01/Pods/Alamofire/Source/SessionDelegate.swift": [533037199, 0]
+  "/Users/apple/Desktop/save/HW9.01/Pods/Alamofire/Source/SessionManager.swift": [533037199, 0]
+  "/Users/apple/Desktop/save/HW9.01/Pods/Alamofire/Source/TaskDelegate.swift": [533037199, 0]
+  "/Users/apple/Desktop/save/HW9.01/Pods/Alamofire/Source/Timeline.swift": [533037199, 0]
+  "/Users/apple/Desktop/save/HW9.01/Pods/Alamofire/Source/Validation.swift": [533037199, 0]

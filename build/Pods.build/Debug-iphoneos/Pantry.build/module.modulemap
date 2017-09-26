@@ -1,0 +1,10 @@
+framework module Pantry {
+  umbrella header "Pantry-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module Pantry.Swift {
+    header "Pantry-Swift.h"
+}

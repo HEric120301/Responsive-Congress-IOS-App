@@ -1,0 +1,37 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "WarehouseCacheable"
+provides-nominal:
+- "P6Pantry18WarehouseCacheable"
+provides-member:
+- ["P6Pantry18WarehouseCacheable", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "StorageExpiry"
+- "Bool"
+- "WarehouseCacheable"
+depends-member:
+- ["P6Pantry18WarehouseCacheable", "Bool"]
+- ["P6Pantry18WarehouseCacheable", "StorageExpiry"]
+- ["P6Pantry18WarehouseCacheable", "cacheExists"]
+- ["P6Pantry18WarehouseCacheable", "loadCache"]
+- ["P6Pantry18WarehouseCacheable", "removeAllCache"]
+- ["P6Pantry18WarehouseCacheable", "removeCache"]
+- ["P6Pantry18WarehouseCacheable", "write"]
+depends-nominal:
+- "P6Pantry18WarehouseCacheable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Users/apple/Desktop/save/HW9.01/Pods/Target Support Files/Pantry/Pantry-umbrella.h"
+- "/Users/apple/Desktop/save/HW9.01/build/Pods.build/Debug-iphoneos/Pantry.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "7ced5ca47c8f6efd6177a8f2924ec307"
